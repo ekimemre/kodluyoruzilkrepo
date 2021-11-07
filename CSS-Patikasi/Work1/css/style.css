@@ -1,0 +1,50 @@
+body {
+    font-family: 'Mohave', sans-serif;
+    background-color: #2C2891;
+    color: #2C2891;
+    text-align: center;
+}
+
+.head1 {
+    text-align: center;
+    font-size: 2rem;
+    color: #FFFD95;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-color: #FFFD95;
+    letter-spacing: 5px;
+}
+
+.head1 a {
+    color:#FFFD95;
+}
+
+.aside {
+    text-align: center;
+    list-style-position: inside;
+    color:whitesmoke;
+    font-size: 1.3rem;
+}
+
+.section1 {
+    color:#39A388;
+    text-shadow: #FFFD95;
+    font-size: 2.5rem;
+    text-decoration:dotted;
+    text-align: center;
+}
+
+.section2 {
+    color:whitesmoke;
+    font-size: 1.5rem;
+
+}
+
+.section3 {
+    color:whitesmoke;
+    font-size: 1.5rem;
+}
+
+.footer {
+    color:#FFFD95;
+}
